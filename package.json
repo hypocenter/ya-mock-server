@@ -1,5 +1,5 @@
 {
-  "name": "mock-server",
+  "name": "ya-mock-server",
   "version": "0.0.1",
   "description": "Yet another mock server",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hypocenter/mock-server.git"
+    "url": "git+https://github.com/hypocenter/ya-mock-server.git"
   },
   "keywords": [
     "mock",
@@ -19,9 +19,9 @@
   "author": "Hypo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hypocenter/mock-server/issues"
+    "url": "https://github.com/hypocenter/ya-mock-server/issues"
   },
-  "homepage": "https://github.com/hypocenter/mock-server#readme",
+  "homepage": "https://github.com/hypocenter/ya-mock-server#readme",
   "dependencies": {
     "glob": "^7.1.2",
     "koa": "^2.5.0"
