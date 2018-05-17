@@ -1,6 +1,6 @@
 {
   "name": "ya-mock-server",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Yet another mock server",
   "main": "index.js",
   "scripts": {
@@ -24,6 +24,7 @@
   "homepage": "https://github.com/hypocenter/ya-mock-server#readme",
   "dependencies": {
     "glob": "^7.1.2",
-    "koa": "^2.5.0"
+    "koa": "^2.5.0",
+    "path-to-regexp": "^2.2.1"
   }
 }
